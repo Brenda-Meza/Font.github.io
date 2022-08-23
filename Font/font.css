@@ -1,0 +1,31 @@
+body{
+    background-image: url(space.png);
+}
+*{
+    color:white
+}
+blockquote{
+    font-size:40px;
+    text-align: center;
+}
+div.sticky{
+    position:-webkit-sticky;
+    position:sticky;
+    top:0;
+    border: 2px solid white;
+    margin:90px;
+}
+section{
+    padding-bottom:1000px;
+}
+footer{
+   margin-top:-80px;
+}
+#fabrands{
+    size:20px;
+}
+footer{
+    text-align:center;
+    margin:100px;
+}
+
